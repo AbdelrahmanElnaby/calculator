@@ -1,0 +1,2 @@
+it is a simple calculator
+read readme.md file to now how it works
